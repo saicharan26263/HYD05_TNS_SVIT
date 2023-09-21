@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 public class ReadFile {
-	public void name(String args[]) {
+	public static void main(String args[]) {
 		try {
 			File f1=new File("demo.txt");
 			Scanner myReader=new Scanner(f1);
