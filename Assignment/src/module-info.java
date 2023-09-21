@@ -4,5 +4,5 @@
 /**
  * 
  */
-module DAY4 {
+module Assignment {
 }
